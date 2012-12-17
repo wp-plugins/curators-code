@@ -18,17 +18,17 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 
-This plugin integrates the via (ᔥ) and hat tip (↬) attribution functions of the Curator's Code into the Wordpress editor dashboard.
+This plugin integrates the via (&#x1525;) and hat tip (&#x21ac;) attribution functions of the Curator's Code into the Wordpress editor dashboard.
 
 
 
 == Description ==
 
-The Curator's Code Plugin integrates the via (ᔥ) and hat tip (↬) attribution functions of the [Curator's Code](http://www.curatorscode.org/) into the Wordpress editor dashboard. After installation, click the ᔥ and ↬ icons to insert a via or hat tip attribution.
+The Curator's Code Plugin integrates the via (&#x1525;) and hat tip (&#x21ac;) attribution functions of the [Curator's Code](http://www.curatorscode.org/) into the Wordpress editor dashboard. After installation, click the &#x1525; and &#x21ac; icons to insert a via or hat tip attribution.
 
 
 
-The unicode symbols ᔥ and ↬ are simply shorthand for the familiar "via" and "HT," respectively. While you may still choose to use "via" and "HT" the old-fashioned way – the goal here is to attribute ethically, regardless of how you do it – there are two reasons we are proposing the unicode characters: One, they are a cleaner, more standardized way to attribute. Two, since the characters are wrapped in a hotlink to the Curator's Code site, they serve as messengers for the ethos of the code itself, as people encounter them across the web and click to find out what they represent.
+The unicode symbols &#x1525; and &#x21ac; are simply shorthand for the familiar "via" and "HT," respectively. While you may still choose to use "via" and "HT" the old-fashioned way – the goal here is to attribute ethically, regardless of how you do it – there are two reasons we are proposing the unicode characters: One, they are a cleaner, more standardized way to attribute. Two, since the characters are wrapped in a hotlink to the Curator's Code site, they serve as messengers for the ethos of the code itself, as people encounter them across the web and click to find out what they represent.
 
 
 
@@ -92,11 +92,11 @@ Part of what The Curator’s Code aspires to do is evolve our thinking about the
 
 
 
-**“Via” (ᔥ)** tends to denote a direct repost — something you found elsewhere and shared with your audience with little modification or elaboration. 
+**“Via” (&#x1525;)** tends to denote a direct repost — something you found elsewhere and shared with your audience with little modification or elaboration. 
 
 
 
-**“HT” or "Hat Tip" (↬)** tends to stand for indirect discovery — something for which you got the idea at your source, but modified or elaborated on significantly when sharing with your audience.
+**“HT” or "Hat Tip" (&#x21ac;)** tends to stand for indirect discovery — something for which you got the idea at your source, but modified or elaborated on significantly when sharing with your audience.
 
 
 
@@ -104,7 +104,7 @@ Part of what The Curator’s Code aspires to do is evolve our thinking about the
 
 
 
-1. Clicking on the ᔥ or ↬ buttons will load a pop-up with two fields - one for the URL, and the second field for the anchor text of the attribution link.
+1. Clicking on the &#x1525; or &#x21ac; buttons will load a pop-up with two fields - one for the URL, and the second field for the anchor text of the attribution link.
 
 
 
