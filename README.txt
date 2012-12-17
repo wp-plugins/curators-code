@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Contributors: hoodwebmgmt, grbritz, contentharmony (this should be a list of wordpress.org userid's)
+Contributors: hoodwebmgmt, grbritz, contentharmony
 
 Donate link: http://www.contentharmony.com/
 
