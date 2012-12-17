@@ -167,7 +167,7 @@ class CuratorsCode{
                 	<span style="font-weight:bold;">Curator's Code Plugin</span> ↬ <a href="http://www.curatorscode.org">curatorscode.org</a>
                 </p>
                 <p>
-                	<span style="font-weight:bold;">Developed by:</span> <a href="http://www.graemebritz.com">Graeme Britz</a> &amp; <a href="http://ww.kanejamison.com">Kane Jamison</a> at <a href="http://www.contentharmony.com">Content Harmony</a>
+                	<span style="font-weight:bold;">Developed by:</span> <a href="http://www.graemebritz.com">Graeme Britz</a> &amp; <a href="http://www.kanejamison.com">Kane Jamison</a> at <a href="http://www.contentharmony.com">Content Harmony</a>
                 </p>
             </div>
                 
