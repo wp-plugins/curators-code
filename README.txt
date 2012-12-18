@@ -105,6 +105,7 @@ Part of what The Curator’s Code aspires to do is evolve our thinking about the
 
 
 1. Clicking on the &#x1525; or &#x21ac; buttons will load a pop-up with two fields - one for the URL, and the second field for the anchor text of the attribution link.
+2. On the settings page you can choose if you want to use the unicode symbols or plain text. Additionally, you can choose if you want the symbol/text to link back to curatorscode.org or not. 
 
 
 

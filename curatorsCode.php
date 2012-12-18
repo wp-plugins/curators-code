@@ -154,7 +154,7 @@ class CuratorsCode{
 	function buildSettingsPage(){
 		?>
         	<div class="wrap">
-                <h1><img class="cc_logo" src="<?php echo $this->pluginUrl().'/images/cc_logo_medium.png';?>" alt="Curators Code Logo" /> Curator's Code</h1>
+                <h1><img class="cc_logo" src="<?php echo $this->pluginUrl().'images/cc_logo_medium.png';?>" alt="Curators Code Logo" /> Curator's Code</h1>
                  <div class="cc_descBox">
             	<h3>About</h3>
             	<p>
@@ -227,7 +227,7 @@ class CuratorsCode{
 	
 	//returns the plugins url (with trailing slash)
 	function pluginUrl(){
-		return plugins_url().'/curatorsCode/';	
+		return plugins_url().'/curators-code/';	
 	}
 
 }// End Curators Code class
