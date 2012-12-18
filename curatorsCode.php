@@ -4,7 +4,7 @@ Plugin Name: Curator's Code
 Plugin URI: http://www.contentharmony.com/tools/curators-code-plugin/
 Description: The Curator's Code Plugin integrates the via (&#x1525;) and hat tip (&#x21ac;) attribution function of the Curator's Code into the Wordpress editor dashboard.
 Author: <a href="http://www.contentharmony.com">Content Harmony</a>
-Version: 1.0
+Version: 1.01
 
 */
 class CuratorsCode{
