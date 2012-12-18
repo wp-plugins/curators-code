@@ -111,7 +111,8 @@ Part of what The Curator’s Code aspires to do is evolve our thinking about the
 
 == Changelog ==
 
-
+= 1.01 =
+Minor bug fixes and added screenshots
 
 = 1.0 =
 
@@ -121,7 +122,8 @@ Part of what The Curator’s Code aspires to do is evolve our thinking about the
 
 == Upgrade Notice ==
 
-
+= 1.01 =
+Minor bug fixes and added screenshots
 
 = 1.0 =
 
