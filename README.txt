@@ -10,7 +10,7 @@ Requires at least: 3.0.1
 
 Tested up to: 3.4
 
-Stable tag: 1.01
+Stable tag: 1.02
 
 License: GPLv2 or later
 
@@ -24,7 +24,7 @@ This plugin integrates the via (&#x1525;) and hat tip (&#x21ac;) attribution fun
 
 == Description ==
 
-The Curator's Code Plugin integrates the via (&#x1525;) and hat tip (&#x21ac;) attribution functions of the [Curator's Code](http://www.curatorscode.org/) into the Wordpress editor dashboard. After installation, click the &#x1525; and &#x21ac; icons to insert a via or hat tip attribution.
+The Curator's Code Plugin integrates the via (&#x1525;) and hat tip (&#x21ac;) attribution functions of the [Curator's Code](http://www.curatorscode.org/?utm_source=wordpress-plugin&utm_medium=wp-plugin-referral&utm_content=cc-plugin-readme&utm_campaign=curators-code-wp-plugin) into the Wordpress editor dashboard. After installation, click the &#x1525; and &#x21ac; icons to insert a via or hat tip attribution.
 
 
 
@@ -32,11 +32,12 @@ The unicode symbols &#x1525; and &#x21ac; are simply shorthand for the familiar 
 
 
 
-Plugin created by the team at [Content Harmony](http://www.contentharmony.com), a premium content marketing service. Full plug-in documentation available at [http://www.contentharmony.com/tools/curators-code-plugin/](http://www.contentharmony.com/tools/curators-code-plugin/).
+Plugin created by the team at [Content Harmony](http://www.contentharmony.com?utm_source=wordpress-plugin&utm_medium=tool-referral&utm_content=readme&utm_campaign=curators-code), a premium content marketing service. Full plug-in documentation available at [http://www.contentharmony.com/tools/curators-code-plugin/](http://www.contentharmony.com/tools/curators-code-plugin/?utm_source=wordpress-plugin&utm_medium=tool-referral&utm_content=readme&utm_campaign=curators-code).
 
 
 
-[Curator's Code](http://www.curatorscode.org/) is a project by [Maria Popova](http://www.brainpickings.org) with input from [Tina Roth Eisenberg](http://www.swiss-miss.com).
+[Curator's Code](http://www.curatorscode.org/?utm_source=wordpress-plugin&utm_medium=wp-plugin-referral&utm_content=cc-plugin-readme&utm_campaign=curators-code-wp-plugin) is a project by [Maria Popova](http://www.brainpickings.org?utm_source=wordpress-plugin&utm_medium=wp-plugin-referral&utm_content=cc-plugin-readme&utm_campaign=curators-code-wp-plugin) with input from [Tina Roth Eisenberg](http://www.swiss-miss.com?utm_source=wordpress-plugin&utm_medium=wp-plugin-referral&utm_content=cc-plugin-readme&utm_campaign=curators-code-wp-plugin
+).
 
 
 
@@ -111,16 +112,23 @@ Part of what The Curator’s Code aspires to do is evolve our thinking about the
 
 == Changelog ==
 
+= 1.02 = 
+
+Updated links
+
 = 1.01 =
 Minor bug fixes and added screenshots
 
 = 1.0 =
 
-* Intial Release
-
+* Initial Release
 
 
 == Upgrade Notice ==
+
+= 1.02 =
+
+Updated links
 
 = 1.01 =
 Minor bug fixes and added screenshots

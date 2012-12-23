@@ -1,10 +1,10 @@
 <?php
 /*
 Plugin Name: Curator's Code
-Plugin URI: http://www.contentharmony.com/tools/curators-code-plugin/
+Plugin URI: http://www.contentharmony.com/tools/curators-code-plugin/?utm_source=wordpress-plugin&utm_medium=tool-referral&utm_content=all-plugins-page&utm_campaign=curators-code
 Description: The Curator's Code Plugin integrates the via (&#x1525;) and hat tip (&#x21ac;) attribution function of the Curator's Code into the Wordpress editor dashboard.
-Author: <a href="http://www.contentharmony.com">Content Harmony</a>
-Version: 1.01
+Author: <a href="http://www.contentharmony.com?utm_source=wordpress-plugin&utm_medium=tool-referral&utm_content=all-plugins-page&utm_campaign=curators-code">Content Harmony</a>
+Version: 1.0
 
 */
 class CuratorsCode{
@@ -164,10 +164,10 @@ class CuratorsCode{
                 	Curator's Code uses two symbols for attributing content, ᔥ and ↬, meaning 'via' and 'hat-tip' or 'HT' respectively. The ᔥ symbol should be used when attributing a direct repost of content, i.e. you are sharing something that you found and made little to no elaboration or modifications to. The ↬ symbol should be used when indirectly using another's ideas, i.e. you got an idea from a source that you then proceeded to modify or elaborate significantly. 
                 </p>
                 <p>
-                	<span style="font-weight:bold;">Curator's Code Plugin</span> ↬ <a href="http://www.curatorscode.org">curatorscode.org</a>
+                	<span style="font-weight:bold;">Curator's Code Plugin</span> ↬ <a href="http://www.curatorscode.org?utm_source=wordpress-plugin&utm_medium=wp-plugin-referral&utm_content=cc-plugin-settings&utm_campaign=curators-code-wp-plugin">curatorscode.org</a>
                 </p>
                 <p>
-                	<span style="font-weight:bold;">Developed by:</span> <a href="http://www.graemebritz.com">Graeme Britz</a> &amp; <a href="http://www.kanejamison.com">Kane Jamison</a> at <a href="http://www.contentharmony.com">Content Harmony</a>
+                	<span style="font-weight:bold;">Developed by:</span> <a href="http://www.graemebritz.com">Graeme Britz</a> &amp; <a href="http://www.kanejamison.com?utm_source=wordpress-plugin&utm_medium=tool-referral&utm_content=cc-plugin-settings&utm_campaign=curators-code">Kane Jamison</a> at <a href="http://www.contentharmony.com?utm_source=wordpress-plugin&utm_medium=tool-referral&utm_content=cc-plugin-settings&utm_campaign=curators-code">Content Harmony</a>
                 </p>
             </div>
                 
